@@ -6,5 +6,5 @@ app = Flask(__name__)
 def home():
   return """<h2>Flask deployed through Vercel</h2>"""
 
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()
